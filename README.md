@@ -5,4 +5,10 @@
 
 ## Демонстрация
 
+## Аскинема игры brain-even
+
 [![asciinema](https://asciinema.org/a/EuzdFAONHV37bS6VpGw23wDIx.svg)](https://asciinema.org/a/EuzdFAONHV37bS6VpGw23wDIx)
+
+## Аскинема игры brain-calc
+
+[![asciinema](https://asciinema.org/a/OtLMi6bik0shc2UxZF7N9FSx7.svg)](https://asciinema.org/a/OtLMi6bik0shc2UxZF7N9FSx7)
