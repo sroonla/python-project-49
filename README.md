@@ -12,3 +12,6 @@
 ## Аскинема игры brain-calc
 
 [![asciinema](https://asciinema.org/a/OtLMi6bik0shc2UxZF7N9FSx7.svg)](https://asciinema.org/a/OtLMi6bik0shc2UxZF7N9FSx7)
+
+## Аскинема игры brain-gcd (НОД)
+[![asciinema](https://asciinema.org/a/h8LI6zNBQL6d2q9dYal5rprdY.svg)](https://asciinema.org/a/h8LI6zNBQL6d2q9dYal5rprdY)
