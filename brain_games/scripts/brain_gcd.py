@@ -2,7 +2,7 @@ from brain_games.engine import run_game
 import random
 import math
 
-RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
+RULES = 'Find the greatest common divisor of given numbers.'
 
 def generate_round():
     num1 = random.randint(1, 100)
