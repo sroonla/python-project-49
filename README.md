@@ -15,3 +15,6 @@
 
 ## Аскинема игры brain-gcd (НОД)
 [![asciinema](https://asciinema.org/a/h8LI6zNBQL6d2q9dYal5rprdY.svg)](https://asciinema.org/a/h8LI6zNBQL6d2q9dYal5rprdY)
+
+## Аскинема игры brain-progression
+[![asciinema](https://asciinema.org/a/suazC6JI6AcZncjEWXqiddwRK.svg)](https://asciinema.org/a/suazC6JI6AcZncjEWXqiddwRK)
