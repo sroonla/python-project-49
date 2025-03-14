@@ -1,6 +1,7 @@
-from brain_games.engine import run_game
-import random
 import operator
+import random
+
+from brain_games.engine import run_game
 
 RULES = "What is the result of the expression?"
 
@@ -17,8 +18,10 @@ def generate_round():
     correct_answer = str(func(num1, num2))
     return question, correct_answer
 
+
 def main():
     run_game(RULES, generate_round)
+
 
 if __name__ == "__main__":
     main()

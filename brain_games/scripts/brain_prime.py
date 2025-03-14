@@ -1,7 +1,9 @@
-from brain_games.engine import run_game
 import random
 
+from brain_games.engine import run_game
+
 RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
 
 def is_prime(n):
     """Проверяет, является ли число n простым."""
@@ -12,14 +14,17 @@ def is_prime(n):
             return False
     return True
 
+
 def generate_round():
-    number = random.randint(1, 100)  # Генерируем случайное число
-    correct_answer = "yes" if is_prime(number) else "no"  # Определяем правильный ответ
+    number = random.randint(1, 100)
+    correct_answer = "yes" if is_prime(number) else "no"
     question = str(number)
     return question, correct_answer
 
+
 def main():
     run_game(RULES, generate_round)
+
 
 if __name__ == "__main__":
     main()

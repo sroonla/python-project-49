@@ -1,7 +1,9 @@
-from brain_games.engine import run_game
 import random
 
+from brain_games.engine import run_game
+
 RULES = "What number is missing in the progression?"
+
 
 def generate_round():
     start = random.randint(1, 20)  # Начало
@@ -16,8 +18,10 @@ def generate_round():
     question = " ".join(map(str, progression))
     return question, correct_answer
 
+
 def main():
     run_game(RULES, generate_round)
+
 
 if __name__ == "__main__":
     main()
