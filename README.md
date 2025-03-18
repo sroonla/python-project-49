@@ -7,17 +7,17 @@
 
 ## Аскинема игры brain-even (Проверка на чётность)
 
-[![asciinema](https://asciinema.org/a/EuzdFAONHV37bS6VpGw23wDIx.svg)](https://asciinema.org/a/EuzdFAONHV37bS6VpGw23wDIx)
+<script src="https://asciinema.org/a/EuzdFAONHV37bS6VpGw23wDIx.js" id="asciicast-EuzdFAONHV37bS6VpGw23wDIx" async></script>
 
 ## Аскинема игры brain-calc (Калькулятор)
 
-[![asciinema](https://asciinema.org/a/OtLMi6bik0shc2UxZF7N9FSx7.svg)](https://asciinema.org/a/OtLMi6bik0shc2UxZF7N9FSx7)
+<script src="https://asciinema.org/a/OtLMi6bik0shc2UxZF7N9FSx7.js" id="asciicast-OtLMi6bik0shc2UxZF7N9FSx7" async></script>
 
 ## Аскинема игры brain-gcd (НОД)
-[![asciinema](https://asciinema.org/a/h8LI6zNBQL6d2q9dYal5rprdY.svg)](https://asciinema.org/a/h8LI6zNBQL6d2q9dYal5rprdY)
+<script src="https://asciinema.org/a/h8LI6zNBQL6d2q9dYal5rprdY.js" id="asciicast-h8LI6zNBQL6d2q9dYal5rprdY" async></script>
 
 ## Аскинема игры brain-progression (Арифметическая прогрессия)
-[![asciinema](https://asciinema.org/a/suazC6JI6AcZncjEWXqiddwRK.svg)](https://asciinema.org/a/suazC6JI6AcZncjEWXqiddwRK)
+<script src="https://asciinema.org/a/suazC6JI6AcZncjEWXqiddwRK.js" id="asciicast-suazC6JI6AcZncjEWXqiddwRK" async></script>
 
 ## Аскинема игры brain-prime (Простое ли число)
-[![asciinema](https://asciinema.org/a/sTx6laAnfKE8irQzV3o57y8BK.svg)](https://asciinema.org/a/sTx6laAnfKE8irQzV3o57y8BK)
+<script src="https://asciinema.org/a/sTx6laAnfKE8irQzV3o57y8BK.js" id="asciicast-sTx6laAnfKE8irQzV3o57y8BK" async></script>
